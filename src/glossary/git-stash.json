@@ -1,0 +1,5 @@
+{
+    "term": "git stash",
+  "meaning": "Shelves your unfinished changes so you can switch branches with a clean working directory, then brings them back later.",
+  "example": "git stash, then git stash pop"
+}
