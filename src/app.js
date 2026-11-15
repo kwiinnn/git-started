@@ -25,7 +25,7 @@ async function renderMembers() {
       avatar.alt = "";
       avatar.loading = "lazy";
 
-      const text = el("div");
+      const text = el("div", "member-text");
       text.append(el("p", "name", member.name));
       const handle = el("p", "handle");
       const link = el("a", "", `@${member.github}`);
