@@ -1,0 +1,5 @@
+{
+  "term": "branch",
+  "meaning": "A separate line of work, so you can change things without touching main until you're ready.",
+  "example": "git switch -c feat/12-dark-mode"
+}

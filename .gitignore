@@ -1,0 +1,7 @@
+# Generated when the site deploys (tools/build_glossary.py)
+src/glossary/index.json
+
+.DS_Store
+Thumbs.db
+.vscode/
+__pycache__/
