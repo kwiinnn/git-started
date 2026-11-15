@@ -12,5 +12,7 @@ Closes #<!-- issue number -->
 
 ## Checklist
 
-- [ ] My branch is named after the issue (for example `feat/12-git-stash`)
+<!-- Tick a box by changing [ ] to [x], or click it after you create the pull request. -->
+
+- [ ] My branch is named after the issue (for example `feat/25-git-stash`)
 - [ ] The check on this pull request is green

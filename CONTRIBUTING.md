@@ -10,7 +10,7 @@ This repo works like a real team's. `main` is protected: nobody pushes to it dir
    ```bash
    git switch main
    git pull
-   git switch -c feat/12-git-stash
+   git switch -c feat/25-git-stash
    ```
 
 3. **Make the change and commit** with a clear message that starts with a type:
@@ -25,7 +25,7 @@ This repo works like a real team's. `main` is protected: nobody pushes to it dir
 4. **Push and open a pull request.**
 
    ```bash
-   git push -u origin feat/12-git-stash
+   git push -u origin feat/25-git-stash
    ```
 
    On GitHub, click **Compare & pull request** and fill in the template. Write `Closes #12` (your issue number) so the issue closes itself when you merge.
