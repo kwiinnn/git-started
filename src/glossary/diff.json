@@ -1,0 +1,5 @@
+{
+  "term": "diff",
+  "meaning": "The line-by-line difference between two versions of a file: what was added, removed or changed.",
+  "example": "git diff"
+}
