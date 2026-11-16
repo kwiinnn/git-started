@@ -1,0 +1,5 @@
+{
+  "term": "commit",
+  "meaning": "A saved snapshot of your changes, with a message that says what changed and why.",
+  "example": "git commit -m \"feat: add dark mode\""
+}
