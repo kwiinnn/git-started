@@ -1,0 +1,5 @@
+{
+    "term": "git status",
+    "meaning": "Display the status of files in the working directory and staging area.",
+    "example": "git status"
+}
