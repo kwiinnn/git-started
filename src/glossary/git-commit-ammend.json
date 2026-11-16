@@ -1,0 +1,5 @@
+{
+  "term": "git commit --amend",
+  "meaning": "One or two sentences, in your own words.",
+  "example": "an example command, or delete this line"
+}
