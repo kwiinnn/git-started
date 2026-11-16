@@ -1,0 +1,5 @@
+{
+  "term": "git restore",
+  "meaning": "Restores files in your working folder or staging area. By default, it discards unstaged changes in the specified file, so use it only when you no longer need those changes.",
+  "example": "git restore README.md"
+}
