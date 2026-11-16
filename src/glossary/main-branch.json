@@ -1,0 +1,5 @@
+{
+  "term": "main branch",
+  "meaning": "The primary branch of a Git repository where the mainline development happens.",
+  "example": "git checkout main"
+}
