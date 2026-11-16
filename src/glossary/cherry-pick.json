@@ -1,0 +1,5 @@
+{
+  "term": "git cherry-pick",
+  "meaning": "Applies the changes from one or more commits to the current branch.",
+  "example": "git cherry-pick <commit-hash>"
+}
