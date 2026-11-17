@@ -1,0 +1,5 @@
+{
+  "term": "git tag",
+  "meaning": "A named label pinned to a specific commit, usually used to mark a release like v1.0.",
+  "example": "git tag v1.0"
+}
